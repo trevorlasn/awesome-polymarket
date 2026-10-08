@@ -66,6 +66,7 @@ Tools that try to separate skill from luck before you follow a wallet.
 - [Airavat](https://airavat.xyz/) - Trading analytics with on-chain trader scoring, real-time trade filters, and paper or live auto-trade execution.
 - [Dune Analytics](https://dune.com/browse/dashboards?q=polymarket) - Community dashboards for volume, open interest, and user analytics.
 - [ClearMarket](https://github.com/JDSource/clearmarket) - Intelligence layer adding parsed resolution logic, catalyst calendars, and cross-platform mapping to raw Polymarket and Kalshi data.
+- [polyfees](https://polyfees.com/) - Fees a Polymarket wallet paid in the last 30 days, to the cent, next to the month's result as the Polymarket profile shows it and the same bets without fees. Paste any public address; free, no login. Optional one-off report, $19.
 
 ## Copy Trading
 
